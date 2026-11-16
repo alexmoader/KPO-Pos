@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Pos.Host/Pos.Host.csproj" />
+  <Project Path="Pos.Infrastructure/Pos.Infrastructure.csproj" />
+  <Project Path="Pos.Models/Pos.Models.csproj" />
+  <Project Path="Pos.Presentation/Pos.Presentation.csproj" />
+  <Project Path="Pos.Tests/Pos.Tests.csproj" />
+  <Project Path="Pos.UseCases/Pos.UseCases.csproj" />
+</Solution>
